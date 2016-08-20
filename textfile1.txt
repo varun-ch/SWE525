@@ -1,3 +1,0 @@
-This is first sample file
-adding third line in tx1
-A new line to understand rebase

@@ -1,1 +1,1 @@
-This is a fourth file
+This is the 4th file in the git testing.
