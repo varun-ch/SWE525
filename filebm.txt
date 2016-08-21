@@ -1,2 +1,2 @@
 A file to test git branching and merging
-Modified to test recursive merge strategy
+Modified in master
