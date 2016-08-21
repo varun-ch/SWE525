@@ -1,1 +1,2 @@
 Add file2
+Modifing file2 to test octopus merge strategy
