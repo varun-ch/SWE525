@@ -1,1 +1,2 @@
 A file to test stash
+A new file stash2.txt is also created to test stash and merge
